@@ -1,4 +1,4 @@
-No projeto eu utilizei um servidor local do MYSQL, por conta de probelmas com Azure.
+No projeto eu utilizei um servidor local do MYSQL, por conta de problemas com Azure.
 
 ### Processos:
 - Limpeza de dados desnecessários;
